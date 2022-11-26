@@ -1,6 +1,6 @@
 ## FirstDjangoTenantsApp
 
-First Django `tenants` app 
+First Django `django-tenants` app 
 
 ## Welcome to django-tenants documentation!
 
