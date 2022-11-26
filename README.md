@@ -1,6 +1,6 @@
 ## FirstDjangoTenantsApp
 
-First Django `django-tenants` app 
+First Django `django-tenants` app using `sub-domains`
 
 ## Welcome to django-tenants documentation!
 
