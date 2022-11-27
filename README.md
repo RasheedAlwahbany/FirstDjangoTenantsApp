@@ -1,4 +1,4 @@
-## FirstDjangoTenantsApp
+## First Django Tenants App
 
 First Django `django-tenants` app using `sub-domains`
 
